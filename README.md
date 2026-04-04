@@ -34,7 +34,7 @@
 
 15. Learn functions in C++
 
-16. Learn Array & C++
+16. Learn Array in C++
 
 17. Learn Char Arrays && String in C++
 
