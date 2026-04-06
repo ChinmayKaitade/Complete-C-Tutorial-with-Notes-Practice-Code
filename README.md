@@ -36,7 +36,7 @@
 
 16. Learn Array in C++
 
-17. Learn Char Arrays && String in C++
+17. Learn Char Arrays & String in C++
 
 18. Reference Variable in C++
 
